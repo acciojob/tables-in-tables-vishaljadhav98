@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.table{
+	border:2px;
+	border-style: double;
+}
+.tr{
+	border:2px;
+	border-style: double;
+}
+.html{
+	background-color: black;
+	color: white;
+}
